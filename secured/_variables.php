@@ -5,6 +5,8 @@
 
   $hello = "Hello World!"; # variabele met dollarteken aangeven
   var_dump($hello); # geeft de rauwe waarde van de variabele weer
+  # declareren met een =teken is ook een functie binnen PHP
+
 
   $voornaam = "Dorien";
   $achternaam = "Hulshagen";
